@@ -14,4 +14,4 @@ The game development took about 2 years. The first file was created on 13th July
 - Scroll - inventory movement
 - Left click - attacking
 
-It was made for the resolution of 1920×1080 but the game was tested also on the resolution of 1536×864. Running the game with other resolution excluding the previously written ones can cause improper performance during the runtime.
+Note: The Display Scaling feature of Windows might interfere with the proper running of the game. This was made for the resolution of 1920×1080, with 100% scaling. Running the game with other resolution might cause improper performance during the runtime.
